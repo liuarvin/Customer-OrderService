@@ -1,14 +1,6 @@
-## Shopping cart with Kotlin.
+## Shopping order list service with Kotlin.
 
-A shopping cart with Kotlin
-
-The exercise should take around 60-90 minutes; please don’t spend much longer than this.
-• Please complete the following task in Kotlin
-
-• Use git to version control the code.
-
-Instructions: Complete the steps in order. Don’t read ahead. At each step build the simplest possible solution which 
-meets the requirement. Tag and git commit after each step so that your approach is clear.
+A shopping order list service with Kotlin
 
 Step 1: Build an Orders Service
 
