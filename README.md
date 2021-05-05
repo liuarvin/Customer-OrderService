@@ -71,5 +71,6 @@ Make sure you have Android Studio on your machine
 ## Built With
 
 * [Kotlin](https://kotlinlang.org/) - Kotlin language
+* [Scala](https://www.scala-lang.org/) - Scala Language
 * [Android Studio](https://developer.android.com/studio/) - Android Studio
 
